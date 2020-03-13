@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/albert_sunyer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://albertsunyer.dev
+  * I am albert_sunyer (https://keybase.io/albert_sunyer) on keybase.
+  * I have a public key ASD88eOVtkI9aB7wqEC5s77vS3uBZ-kjkvhHtuHxCCaA5go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fcf1e395b6423d681ef0a840b9b3beef4b7b8167e92392f847b6e1f1082680e60a",
+      "host": "keybase.io",
+      "kid": "0120fcf1e395b6423d681ef0a840b9b3beef4b7b8167e92392f847b6e1f1082680e60a",
+      "uid": "43904c616892b45cff9207859ad91519",
+      "username": "albert_sunyer"
+    },
+    "merkle_root": {
+      "ctime": 1584142879,
+      "hash": "5aed11aed22fcd96081591f14a058673366ec09cbaf3750bf4bf08eb1e4176efcb2612e27357727a79834496b220cc02003038a938a6867768d219b4d932b341",
+      "hash_meta": "b04fcd1890ef12e59edf73ac2c54579b8e5e915c906f3eb8dffee26f3758bbff",
+      "seqno": 15363805
+    },
+    "service": {
+      "entropy": "rfjPNd9Y52JEyBJWfQSmFkWa",
+      "hostname": "albertsunyer.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584142884,
+  "expire_in": 504576000,
+  "prev": "0c67dcb6b2f9f84ae50bab761fec23156bfc7d5f5a6d38db8db3bc0feac844a4",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/PHjlbZCPWge8KhAubO+70t7gWfpI5L4R7bh8QgmgOYKp3BheWxvYWTESpcCB8QgDGfctrL5+ErlC6t2H+wjFWv8fV9abTjbjbO8D+rIRKTEII+XfAlI51Yl+5+KOvm9Aqubjrf8Ee1y3x3ort+qpc9pAgHCo3NpZ8RAJo48IYIE2H8u/caPuyvx4f0Cbt1nyL+OAtnBy0oIQEWHD/R4sU2L7HXhPu/iQivbYRawtGkBELtQ5MbSNOZ+D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII/lqMjG7XECAY8TO5Fl2NjYP0YR41SquXEQbgyCFhWco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/albert_sunyer
+
+==================================================================
